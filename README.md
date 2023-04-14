@@ -1,4 +1,6 @@
 # WheelTimer
+[![Nuget](https://img.shields.io/nuget/v/WheelTimer)](https://www.nuget.org/packages/WheelTimer/)
+
 `HashedWheelTimer` implement by c#
 
 fork from [DotNetty](https://github.com/Azure/DotNetty/blob/dev/src/DotNetty.Common/Utilities/HashedWheelTimer.cs)
