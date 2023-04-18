@@ -5,6 +5,10 @@ High performance and light weight `HashedWheelTimer` implement by c#
 
 fork from [DotNetty](https://github.com/Azure/DotNetty/blob/dev/src/DotNetty.Common/Utilities/HashedWheelTimer.cs)
 
+# Install nuget package
+```
+dotnet add package WheelTimer
+```
 # Usages
 
 ```c#
